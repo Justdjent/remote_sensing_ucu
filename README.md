@@ -1,14 +1,14 @@
 # remote_sensing_ucu
 
-Please install requirments:
+Please install the requirements:
 
 ```
 pip install -r requirments.txt
 ```
 
-Requirments created for Python 3.8. It is reccomended to use this version
+Requirements created for Python 3.8. It is recommended to use this version
 
-After please install opencv
+After please install the following package from the console
 
 ```
 pip install numpy==1.20.0
@@ -17,8 +17,8 @@ pip install scikit-learn==0.22
 pip install seaborn==0.11.2
 ```
 
-And start jupyter notebook:
+And start Jupyter notebook:
 
 requirments_check.ipynb
 
-run 2 cells, if there is no errors We can proceed forward
+Please run 2 cells, if there are no errors We can proceed forward
