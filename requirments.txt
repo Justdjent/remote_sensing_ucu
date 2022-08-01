@@ -1,0 +1,14 @@
+geopandas==0.8.2
+Rtree==0.9.7
+pyproj==3.0.0.post1
+Pillow==8.0.0
+scikit-image==0.17.2
+scikit-learn==0.21.1
+tqdm==4.20.0
+tensorflow==2.6.0
+pandas===1.1.4
+albumentations==0.5.2
+tensorflow-addons==0.11.2
+segmentation-models==1.0.1
+rasterio==1.2.0
+notebook==6.4.12
