@@ -14,6 +14,7 @@ After please install opencv
 pip install numpy==1.20.0
 pip install keras==2.6.*
 pip install scikit-learn==0.22
+pip install seaborn==0.11.2
 ```
 
 And start jupyter notebook:
